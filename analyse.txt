@@ -1,0 +1,4 @@
+Ceci est un ficher d'analyse.
+
+La première analyse est un succès.
+
