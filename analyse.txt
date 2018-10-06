@@ -1,4 +1,7 @@
 Ceci est un ficher d'analyse.
 
 La première analyse est un succès.
+Analyse 2: échec
+Analyse 3: succès
+Analyse 4: abandon
 
